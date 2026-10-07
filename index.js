@@ -1,3 +1,5 @@
 const _v = 0x22;
 
 console.log(_v);
+
+console.log('hello');
