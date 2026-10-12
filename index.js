@@ -6,4 +6,8 @@ console.log('hello');
 
 const v = _v.toString(16);
 
+const vv = v;
+
 console.log(v);
+
+console.log(vv);
