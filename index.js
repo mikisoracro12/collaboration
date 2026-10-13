@@ -11,3 +11,5 @@ const vv = v;
 console.log(v);
 
 console.log(vv);
+
+//bug
